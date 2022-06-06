@@ -9,6 +9,3 @@ The aim of the HEAR benchmark is to develop a general-purpose audio representati
 For more information on HEAR please visit https://hearbenchmark.com
 
 **To submit to the [HEAR benchmark leaderboard](https://hearbenchmark.com/hear-leaderboard.html) see [instructions on our website](https://hearbenchmark.com/hear-submit.html) and then submit by [making a pull request here.](https://github.com/hearbenchmark/hear-benchmark)**
-
-### Open Source Code
-The HEAR GitHub organization contains several open source repositories 
